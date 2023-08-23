@@ -10,6 +10,7 @@
 		924191232A9688FC00676E4C /* ResisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924191222A9688FC00676E4C /* ResisterViewController.swift */; };
 		924191252A96896600676E4C /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924191242A96896600676E4C /* LoginViewController.swift */; };
 		924191272A968DFC00676E4C /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924191262A968DFC00676E4C /* ListViewController.swift */; };
+		9241914B2A96C41900676E4C /* ThirdPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9241914A2A96C41900676E4C /* ThirdPage.swift */; };
 		9284568E2A93D199008FF0A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9284568D2A93D199008FF0A7 /* AppDelegate.swift */; };
 		928456902A93D199008FF0A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9284568F2A93D199008FF0A7 /* SceneDelegate.swift */; };
 		928456922A93D199008FF0A7 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928456912A93D199008FF0A7 /* WelcomeViewController.swift */; };
@@ -24,6 +25,7 @@
 		924191222A9688FC00676E4C /* ResisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResisterViewController.swift; sourceTree = "<group>"; };
 		924191242A96896600676E4C /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		924191262A968DFC00676E4C /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		9241914A2A96C41900676E4C /* ThirdPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdPage.swift; sourceTree = "<group>"; };
 		9284568A2A93D199008FF0A7 /* playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9284568D2A93D199008FF0A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9284568F2A93D199008FF0A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				9284568F2A93D199008FF0A7 /* SceneDelegate.swift */,
 				928456912A93D199008FF0A7 /* WelcomeViewController.swift */,
 				924191262A968DFC00676E4C /* ListViewController.swift */,
+				9241914A2A96C41900676E4C /* ThirdPage.swift */,
 				928456932A93D199008FF0A7 /* Main.storyboard */,
 				928456962A93D199008FF0A7 /* Assets.xcassets */,
 				928456982A93D199008FF0A7 /* LaunchScreen.storyboard */,
@@ -162,6 +165,7 @@
 				928456922A93D199008FF0A7 /* WelcomeViewController.swift in Sources */,
 				9284568E2A93D199008FF0A7 /* AppDelegate.swift in Sources */,
 				924191272A968DFC00676E4C /* ListViewController.swift in Sources */,
+				9241914B2A96C41900676E4C /* ThirdPage.swift in Sources */,
 				928456902A93D199008FF0A7 /* SceneDelegate.swift in Sources */,
 				924191252A96896600676E4C /* LoginViewController.swift in Sources */,
 				924191232A9688FC00676E4C /* ResisterViewController.swift in Sources */,
